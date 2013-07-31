@@ -1,0 +1,10 @@
+# Data Files
+*.pickle
+*.csv
+*.json
+*.txt
+*.dat
+*.mtx
+
+# Compiled Python
+*.pyc
